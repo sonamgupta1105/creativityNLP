@@ -1,0 +1,118 @@
+The Wisconsin Creativity Writing Dataset 1.0
+
+Format: 
+  columns 1,2,3,4: creativity scores from four judges
+  column 5: conventional (group1) or creative (group2) writing
+  column 6: keyword:
+  columns 7-end: the sentence
+
+Reference:
+Xiaojin Zhu, Zhiting Xu, and Tushar Khot. How creative is your writing? a linguistic creativity measure from computer science and cognitive psychology perspectives. In NAACL 2009 Workshop on Computational Approaches to Linguistic Creativity, 2009.
+
+<Begin Data>
+5	3	6	4	group2 knife: Knife is a tool to cut sandwiches, but not your fingers
+0	0	1	1	group2 scales: scales is used to weight
+7	5	5	5	group2 go_cart: i had a go_cart in youth ; now i have a car , but i still miss my go cart
+8	0	5	2	group2 dress: The dress tastes bad
+9	2	5	2	group2 lion: A lion , although the jungle of forest , a lion does not have a crown but a peacock does
+8	4	4	4	group2 trout: let ' s build a binary classifier for trout and tuna
+0	1	0	2	group1 alligator: alligators have teeth
+6	3	6	5	group2 oven: The very hot oven melted the plastic on my pan
+5	0	7	5	group2 worm: an average worm can go over every square inch of the Eiffel Tower in four years
+7	8	6	5	group2 wrench: You can ' t fix a ranch with a wrench
+3	2	4	7	group2 Jean: Jean ' s car was broken down by the side of highway in Arizona
+9	6	7	8	group2 swallow: my throat felt like lead , such that every swallow pained me greatly
+8	3	7	7	group2 cricket: people do not play cricket for fun , they play it to entertain people
+2	0	4	4	group2 cow: Do cows also have different shades for eye color ?
+7	0	9	7	group2 turtle: anecdotal evidence suggests that turtles are faster than rabbits
+5	1	3	3	group2 trombone: this is a beautiful trombone
+8	9	7	7	group2 monitor_lizard: The monitor lizard has the look of dragon fire in its eyes
+7	10	8	8	group2 beaver: A beaver could participate in a fashion show since it has the most stylish walk
+6	7	5	4	group2 mouse: cat does not like a computer mouse
+5	4	8	7	group2 tractor: a tractor is a trusty steed in these hills
+7	1	5	7	group2 scarf: He used scarf to commit suicide
+10	4	7	10	group2 axe: In this traditional Bewacian woodworking town there was an axe stuck in the oldest tree which was said to have the power to make a young man successful
+6	0	3	7	group1 ray: A ray tracing render models light as a ray
+1	2	1	2	group2 frog: frog jumps like a frog
+6	1	7	6	group2 pan: The plastic handle on my Teflon pan melted after maintaining contact with the hot oven for a few minutes
+7	2	3	4	group2 guitar: guitar is not an musical instrument , it ' s just used to play
+2	0	3	6	group2 spanner: spanner is a promising new field for research
+0	0	0	1	group1 guitar: A Guitar has strings
+0	0	0	1	group2 leech: leech lives in the water
+4	1	4	2	group1 furnace: A furnace is used to melt stuff
+0	0	0	1	group1 iguana: Iguana has four legs
+4	1	2	3	group2 rocket: The rocket flew to the moon
+9	8	8	5	group2 hot_air_balloon: the hot air balloon from Mars smiles and says : hello , everyone
+6	2	7	4	group1 piranha: piranha is delicious
+10	8	6	4	group2 hat: suddenly a stranger came in and said ' hello my name is hat '
+9	9	10	8	group2 wasp: The wasp is a dinosaur in the ant - world
+9	1	5	1	group1 teaspoon: teaspoon cannot be used for stirring coffee
+0	0	1	1	group1 scissors: scissors can be used to cut things
+10	5	6	10	group2 bumblebee: as she danced buck and forth weaving in and out of my arms , i felt frightened that even though she might be a harmless little bumblebee , one day she might get close enough to sting me
+10	4	5	9	group2 grasshopper: The man who had dressed as an Indian chief for Halloween , enjoyed a fine drink called ' the grasshopper '
+0	0	1	2	group1 hippopotamus: The hippopotamus is grey
+7	2	3	2	group2 rabbit: a new kind of rabbit can eat meat
+7	9	7	8	group2 plate: Do people expect a plate and ambrosia in heaven ?
+8	3	7	8	group2 sparrow: that sparrow is destined to die just like you and i
+3	2	6	6	group2 boots: you should not play soccer with boots
+0	0	1	1	group1 whale: a whale is big
+10	10	10	7	group2 hamster: she asked if i had any pets , so i told her i once did until i discovered that i liked taste of hamster
+1	2	2	1	group1 shoes: shoes often appear on someone ' s feet
+6	1	4	4	group2 louse: louse actually is the best jumper in this planet
+0	0	0	1	group1 elephant: elephant is a mammal
+6	6	4	6	group2 penguin: a penguin colony has a coach who dictates the formation in which they travel
+5	8	5	6	group2 hammer: there are a lot of hammers in the heaven , aren ' t there ?
+8	0	4	3	group2 bicycle: I eat a bicycle candy
+10	9	4	5	group2 duck: D , Du , Duc , Duck , it ' s a duck !
+9	4	6	7	group2 spider: A wild spider was beside her, but an emerald hummingbird did hover above her
+9	1	4	6	group2 snake: could snakes be bright blue ?
+7	3	8	3	group2 swordfish: The swordfish broke its sword
+0	0	1	1	group1 spider: spider is an insect
+1	0	1	1	group1 crow: A crow is black in color
+6	0	5	7	group2 jogging: The sweaty person had been jogging for many hours and needed to  rehydrate before attempting to run more
+3	1	4	3	group1 mouse: a mouse hates cats
+2	0	2	2	group1 drum_set: The drum set can make noise
+7	2	6	7	group2 rhinoceros: What is the sound produced by a rhinoceros called ?
+9	4	7	9	group2 bat: shining brightly in the sunlight , the new robot that had entered the arena had markings resembling huge bats on its arms
+5	8	9	7	group2 spoon: A spoon is ever slender , it never has to go to the gym
+5	0	5	6	group2 moped: a moped is how future motor will look like
+3	0	4	2	group2 spatula: spatula is a word which i do not know
+7	3	6	7	group2 coffee_maker: if the world ever finds itself in a great struggle , the world might be in tremble since no one wants to give up their ipod or coffee maker
+9	6	8	8	group2 belt: The highway encircles the city like a belt encircles a fat man
+5	2	7	6	group2 paint_brush: I often use paint brush as a broom
+0	0	0	1	group1 cello: cello has strings
+7	1	3	4	group2 moth: This moth has golden wings
+7	5	7	8	group2 mosquito: a revolution is happening in a mosquito kingdom in Asia
+9	5	9	8	group2 cockroach: cockroaches are persistent yet cowardly , much like humanity
+6	1	4	6	group2 cap: The warm fuzzy wool cap was used to cover the head of a child
+5	1	2	5	group2 electric_kettle: Can you use electric kettle without electricity ? 
+6	4	2	5	group2 teaspoon: how can we have a spoon of tea with a teaspoon but without tea ? 
+6	2	4	4	group2 cobra: The cobra cast off its old skin
+8	8	4	3	group2 crowbar: Hey , are you going to hit that crow with your crowbar
+2	0	3	3	group1 cow: there are lots of cows in Wisconsin
+4	1	5	5	group2 colander: We used a colander to filter dregs in beers
+5	3	4	4	group2 dolphin: his voice is similar as dolphin ' s
+6	0	6	6	group2 woodpecker: Remember Goldberg ' s pencil sharpener, the woodpecker ? 
+1	0	2	3	group1 boots: people need boots to walk
+8	8	7	7	group2 blackbird: Morpheus often took the form of a blackbird when he came to visit me in my dreams
+8	8	10	8	group2 dove: dove can still bring war by the information it carries
+2	0	1	4	group2 scooter: scooter !
+7	5	7	7	group2 shark: The shark gives out an evil grin every time it sees a bait
+7	1	4	4	group2 mittens: Mittens are not plant species
+2	0	4	2	group1 toaster: the toaster is really heavy
+1	0	2	2	group2 pelican: pelican always has a long neck
+5	1	5	5	group2 costume: the traditional costume of the nation is long hat
+3	0	3	4	group2 airplane: The airplane crash into the ocean
+3	1	4	5	group2 horse: These horses are living in the north of China
+6	3	4	6	group2 sieve: To sieve the data or not to ?
+5	5	5	5	group2 whale: a whale is million times as big as an ant
+0	0	1	1	group1 harp: Harp is a musical instrument
+7	1	3	4	group2 cat: The cat ate the rabbit ' s leg
+8	3	6	7	group2 seagull: Jonathon Livingstone Seagull inspired him to chase his dreams
+9	9	6	7	group2 bus: a bus can be used to store around a million golf balls
+6	6	2	7	group2 triangle: triangle stands for three angels
+2	0	3	3	group2 salamander: i have a salamander as my pet
+7	5	6	8	group2 falcon: falcons hunt using psychic techniques
+9	8	6	4	group2 flee: it 's hard to see a fleet of flees
+3	6	5	6	group2 eagle: eagle can fly you to heaven
+<End Data>
